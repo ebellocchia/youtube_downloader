@@ -24,7 +24,7 @@ The output folder is *YouTubeDownloader\bin*.
 ## Usage
 
 The application is made to be as simple as possible to use.\
-Just paste the YouTube video URL in the text box, select the desired format (audio/video) and click the download button.
+Just paste the YouTube video URL in the text box, select the desired format (audio/video) and click the download button. That's it.
 
 For audio, the highest quality available will be automatically downloaded.\
 For video, the user can choose between the highest quality or custom quality.
