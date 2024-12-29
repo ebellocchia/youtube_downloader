@@ -1,0 +1,6 @@
+# Output folders
+bin
+obj
+.vs
+*.v12.suo
+*csproj.user
