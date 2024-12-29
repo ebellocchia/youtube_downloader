@@ -4,7 +4,8 @@
 
 ## Introduction
 
-Minimal application to download audio and video from YouTube. I originally made this for my dad so he wouldn't use potentially malicious websites to download content from YouTube.\
+Minimal application to download audio and video from YouTube.\
+I originally made this for my dad so he wouldn't use potentially malicious websites to download content from YouTube.
 
 ## How it works
 
